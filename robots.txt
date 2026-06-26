@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nickflorez.github.io/readme-1y4r0s/sitemap.xml
